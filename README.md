@@ -9,4 +9,4 @@
 Vous pouvez retrouvez l'intégralité de cette idée en suivant les liens suivant > https://wasty.io
                                                                                > https://wasty.fr
 
-4. Ce projet est ouvert et libre à tout dévelloppeur souhaitant participer au dévellopement de celui-ci.
+4. Ce projet est ouvert et libre à tout développeur souhaitant participer au dévellopement de celui-ci.
